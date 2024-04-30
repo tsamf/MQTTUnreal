@@ -26,7 +26,7 @@ The client will handle the MQTT connection and find all of the smart objects in 
 When the ESP Client Publisher sends an update, the unreal client will receive the message and route it to the correct smart object based on the topic.     
 <img src="/Documentation/Map_Outliner.png" width="750">
 
-The light smart object is simulated with a cylinder that is hidden when the LED is off and shows when the LED is on.
-<img src="/Documentation/Running_All_Lights.jpg" width="750">
-Two LEDs off.
-<img src="/Documentation/Running_Far_Lights.jpg" width="750">
+The light smart object is simulated with a cylinder that is hidden when the LED is off and shows when the LED is on.     
+<img src="/Documentation/Running_All_Lights.jpg" width="750">     
+Two LEDs off.     
+<img src="/Documentation/Running_Far_Lights.jpg" width="750">     
